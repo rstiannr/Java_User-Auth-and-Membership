@@ -1,7 +1,7 @@
 <div align="center">
   
 <h1>🍽️ Em-Food User Authentication & Membership System </h1>
-
+*A simple yet comprehensive console-based membership and authentication system for food service management*
 </div>
 
 ---
@@ -12,7 +12,7 @@
 ![Console App](https://img.shields.io/badge/Console-Application-blue?style=for-the-badge)
 ![File System](https://img.shields.io/badge/Storage-File%20System-green?style=for-the-badge)
 
-*A simple yet comprehensive console-based membership and authentication system for food service management*
+*This program was created to fulfill the final project for the Programming Language 1 subject at my university.*
 
 </div>
 
