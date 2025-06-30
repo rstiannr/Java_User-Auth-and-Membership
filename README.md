@@ -28,8 +28,6 @@
 - [Getting Started](#-getting-started)
 - [Usage Examples](#-usage-examples)
 - [Technical Details](#-technical-details)
-- [Limitations](#-limitations)
-- [Contributing](#-contributing)
 
 ---
 
@@ -288,38 +286,6 @@ Main Menu:
 - **NPM**: Exactly 11 digits, must be unique
 - **Password**: Minimum 5 characters
 - **Membership**: Silver (free), Gold/Platinum (paid with simulation)
-
----
-
-## ⚠️ Limitations
-
-| Category | Limitation | Impact |
-|----------|------------|--------|
-| 🔒 **Security** | Plain text password storage | Passwords are not encrypted |
-| 👥 **Concurrency** | Single-user application | No multi-user support |
-| 🎨 **Interface** | Console-based only | No graphical user interface |
-| 🔧 **Features** | Take/Give are placeholders | Limited functional implementation |
-| 💾 **Storage** | File-based system | No database integration |
-| 🌐 **Network** | Local application only | No network connectivity |
-
----
-
-## 🤝 Contributing
-
-We welcome contributions to improve Em-Food! Here's how you can help:
-
-1. 🍴 **Fork** the repository
-2. 🌿 **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. 💻 **Commit** your changes (`git commit -m 'Add amazing feature'`)
-4. 📤 **Push** to the branch (`git push origin feature/amazing-feature`)
-5. 🔄 **Open** a Pull Request
-
-### Areas for Improvement
-- 🔐 Password encryption and security enhancements
-- 🗄️ Database integration for better data management
-- 🎨 GUI development using JavaFX or Swing
-- 🧪 Unit testing implementation
-- 📝 Enhanced error handling and logging
 
 ---
 
